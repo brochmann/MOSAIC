@@ -7,3 +7,4 @@ Several items are needed for the system to launch;
 * File and text items uploading
 * Peer verification
 * Viewing of popular and new intelligence items
+* Some kind of persistent verification and 'trustworthiness' score for users
